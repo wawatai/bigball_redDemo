@@ -201,7 +201,6 @@ html body main .center .left .inputBox button {
   position: absolute;
   top: 134px;
   left: 106px;
-  cursor: pointer;
 }
 html body main .center .left .inputBox button:hover, html body main .center .left .inputBox button:active, html body main .center .left .inputBox button.active {
   color: #9b0002;
