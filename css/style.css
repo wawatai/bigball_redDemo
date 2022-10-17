@@ -230,8 +230,8 @@ html body main .center .right .mainObject {
   position: absolute;
   top: 26px;
   left: -99px;
-  -webkit-animation: invisible 0.6s ease-in-out, showIN 0.2s 0.6s ease-in forwards;
-          animation: invisible 0.6s ease-in-out, showIN 0.2s 0.6s ease-in forwards;
+  -webkit-animation: invisible 0.3s linear, showIN 0.2s 0.3s ease-in forwards;
+          animation: invisible 0.3s linear, showIN 0.2s 0.3s ease-in forwards;
 }
 html body main .center .right .text {
   width: 682px;
@@ -241,8 +241,8 @@ html body main .center .right .text {
   position: absolute;
   top: 439px;
   left: -114px;
-  -webkit-animation: invisible 0.5s ease-in-out, show 0.2s 0.5s ease-in-out forwards;
-          animation: invisible 0.5s ease-in-out, show 0.2s 0.5s ease-in-out forwards;
+  -webkit-animation: invisible 0.2s linear, show 0.2s 0.2s ease-in-out forwards;
+          animation: invisible 0.2s linear, show 0.2s 0.2s ease-in-out forwards;
 }
 html body main .center .right .deco {
   width: 301px;
@@ -252,8 +252,8 @@ html body main .center .right .deco {
   position: absolute;
   top: 598px;
   left: 530px;
-  -webkit-animation: invisible 0.6s ease-in-out, showIN 0.2s 0.6s ease-in-out forwards;
-          animation: invisible 0.6s ease-in-out, showIN 0.2s 0.6s ease-in-out forwards;
+  -webkit-animation: invisible 0.3s linear, showIN 0.2s 0.3s ease-in-out forwards;
+          animation: invisible 0.3s linear, showIN 0.2s 0.3s ease-in-out forwards;
   z-index: 10;
 }
 html body main .bg {
